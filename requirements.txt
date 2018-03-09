@@ -3,7 +3,5 @@
 plotly
 jupyter
 jupyterlab
-numpy
 pandas
 requests
-tqdm
