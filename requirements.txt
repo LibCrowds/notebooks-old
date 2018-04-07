@@ -5,3 +5,5 @@ jupyter
 jupyterlab
 pandas
 requests
+
+-e git://github.com/SciFabric/enki.git#egg=enki
