@@ -8,8 +8,11 @@ explore the data created via the LibCrowds platform.
 ## Build setup
 
 ``` bash
-# install
+# install core dependencies
 pip install -r requirements.txt
+
+# install Jupyter extensions
+jupyter labextension install @jupyterlab/plotly-extension
 
 # run
 jupyter lab
