@@ -5,5 +5,8 @@ jupyter
 jupyterlab
 pandas
 requests
+gensim
+nltk
+stop-words
 
 -e git://github.com/SciFabric/enki.git#egg=enki
